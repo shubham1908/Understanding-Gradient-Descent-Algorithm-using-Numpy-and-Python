@@ -6,7 +6,7 @@
 
 ## Library Used
 * __*numpy*__  *(Used for Mathmatcal tools)*
-* __*matplotlib*__  *(Used for visuliation of data)*
+* __*matplotlib*__  *(Used for Visualization of data)*
 * __*pandas*__  *(Used for import dataset)*
 * __*seaborn*__  *(Used to make plot beautiful)*
 
